@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Konstantina Dritsa"
 title_separator          : "-"
-name                     : &name "Konstantina Dritsa"
+name                     : &name "dddddxxxxx"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/konstantinadritsa/"
+  linkedin         : "konstantinadritsa"
   orcid            : "https://orcid.org/0000-0003-3395-2182"
   pinterest        :
   soundcloud       :
