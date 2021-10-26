@@ -5,7 +5,7 @@ permalink: /publication/2021-08-20-crossvul
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-08-20
 venue: 'Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://dimitro.gr/assets/papers/NDLM21.pdf'
 citation: 'Your Name, You. 2015. &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 Examining the characteristics of software vulnerabilities and the code that contains them can lead to the development of more secure software. We present a dataset (∼1.4 GB) containing vulnerable source code files together with the corresponding, patched versions. Contrary to other existing vulnerability datasets, ours includes vulnerable files written in more than 40 programming languages. Each file is associated to (1) a Common Vulnerability Exposures identifier (CVE ID) and (2) the repository it came from. Further, our dataset can be the basis for machine learning applications that identify defects, as we show in specific examples. We also present a supporting dataset that contains commit messages derived from Git commits that serve as security patches. This dataset can be used to train ML models that in turn, can be used to detect security patch commits as we highlight in a specific use case.
