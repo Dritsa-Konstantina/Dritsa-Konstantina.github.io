@@ -20,3 +20,10 @@ author_profile: true
 * <b>[Aspects of the History of Computing in Modern Greece](https://dritsa-konstantina.github.io//publication/2018-05-08-aspects-history-computing-greece)</b><br> 
 **Authors:** <ins>Konstantina Dritsa</ins>, Dimitris Mitropoulos, Diomidis Spinellis<br>
 **Published in:** IEEE Annals of the History of Computing (2018)
+
+
+## Academic Service
+
+* **External reviewer**
+MSR Technical Track: 2020
+Pan-Hellenic Conference on Informatics (PCI): 2021
