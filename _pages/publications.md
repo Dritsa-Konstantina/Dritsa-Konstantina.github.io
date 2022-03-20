@@ -1,8 +1,10 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=9cWwvV4AAAAJ&hl=en)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+[(Google Scholar)](https://scholar.google.com/citations?user=9cWwvV4AAAAJ&hl=en)
 
 <br>
 <b>[CrossVul: a cross-language vulnerability dataset with commit data](https://dritsa-konstantina.github.io//publication/2021-08-20-crossvul)</b><br> 
