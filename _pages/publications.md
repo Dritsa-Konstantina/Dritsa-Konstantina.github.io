@@ -24,6 +24,6 @@ author_profile: true
 
 ## Academic Service
 
-* **External reviewer**
-MSR Technical Track: 2020
-Pan-Hellenic Conference on Informatics (PCI): 2021
+* **External reviewer**<br>
+  * MSR - Technical Track (2020)<br>
+  * Pan-Hellenic Conference on Informatics (2021)
