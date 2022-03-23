@@ -18,6 +18,6 @@ Further in life...
 * I hate discriminations, pandemics and wars.
 * I can't live without my portable speakers, which was a gift from my former colleagues at [Fantasy Travel](https://www.fantasytravelofgreece.com/).
 * If I were an animal, I like to think I'd be a honey badger (small, fierce, persistent).
-* My little sister is my hero.
+* My little sister is my role model.
 * I get my research motivation mostly from reading good papers.
 * The universe always fascinates me.
