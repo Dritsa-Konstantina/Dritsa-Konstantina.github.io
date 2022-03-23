@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my page! My name is Konstantina and these are a few things about me...
+Welcome to my page! My name is Konstantina and here are a few things about me...
 
 * I am a PhD candidate at the [Business Analytics Laboratory](https://www.balab.aueb.gr/) of the [Athens University of Economics & Business](https://www.aueb.gr/en) in Greece. My advisor is Assoc. Prof. [Panagiotis Louridas](https://www.linkedin.com/in/louridas).
 * My research interests include all aspects of data science and applications of machine learning and deep learning, with a focus on machine learning models and methods that ”understand” source code and predict its properties.
 * I have worked in the industry in the fields Data Journalism for [iMEdD.org](https://lab.imedd.org/en/lab-author/konstantina-dritsa-en/) as well as deep learning applications on source code for [bloop.ai](https://bloop.ai/).
+
 
 Further in life...
 * I love traveling, St Vincent (musician), zombie movies, Fyodor Dostoevsky, BBQ ribs, palm trees, my friends and family.
