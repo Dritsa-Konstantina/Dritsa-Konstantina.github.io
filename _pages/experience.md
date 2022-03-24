@@ -7,8 +7,8 @@ redirect_from:
   - /experience.html
 ---
 
-### Machine Learning Researcher<br>
-\- **bloop.ai** - <br>
+**Machine Learning Researcher**
+🏢 **bloop.ai** <br>
 📍 *London, UK (Remote)*<br>
 📅 *12.2021 – 02.2022*<br>
 - Research consluting in the field of Information Retrieval for retrieving source code snippets based on natural language queries
