@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /experience.html
 ---
-
+<br>
 **Machine Learning Researcher**<br>
 🏢 **bloop.ai** <br>
 📍 *London, UK (Remote)*<br>
@@ -15,17 +15,15 @@ redirect_from:
 - Development of a tool for benchmarking different pipelines of Information Retrieval
 
 **Data Scientist**<br>
-**iMEdD.org**<br>
+🏢 iMEdD.org<br>
 📍 *Athens, Greece*<br>
 📅 *03.2020 – 12.2020*<br>
-<br>
 - Creation of a dataset of the Greek Parliament proceedings and enrichment with extensive meta-data
 
 **Python Developer & Content Editor**<br>
-**Fantasy Travel**<br>
+🏢 Fantasy Travel<br>
 📍 *Athens, Greece*<br>
 📅 *07.2014 – 04.2019*<br>
-<br>
 - Software development & data analysis with Python
 - Debugging of in-house software tools
 - Technological support & training of colleagues
