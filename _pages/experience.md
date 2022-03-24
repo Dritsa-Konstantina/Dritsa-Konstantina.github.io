@@ -14,11 +14,15 @@ redirect_from:
 - Research consluting in the field of Information Retrieval for retrieving source code snippets based on natural language queries
 - Development of a tool for benchmarking different pipelines of Information Retrieval
 
+- - -
+
 **Data Scientist**<br>
 🏢 iMEdD.org<br>
 📍 *Athens, Greece*<br>
 📅 *03.2020 – 12.2020*<br>
 - Creation of a dataset of the Greek Parliament proceedings and enrichment with extensive meta-data
+
+- - -
 
 **Python Developer & Content Editor**<br>
 🏢 Fantasy Travel<br>
@@ -28,3 +32,5 @@ redirect_from:
 - Debugging of in-house software tools
 - Technological support & training of colleagues
 - Management & update of multilingual websites with Joomla, Drupal, WordPress & Custom CMSs
+
+- - -
