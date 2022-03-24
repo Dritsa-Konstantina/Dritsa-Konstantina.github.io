@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV]()
+[Download CV](https://dritsa-konstantina.github.io/files/dritsa_konstantina_cv.pdf)
