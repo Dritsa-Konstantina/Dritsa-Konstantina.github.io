@@ -7,8 +7,7 @@ redirect_from:
   - /experience.html
 ---
 
-Machine Learning Researcher<br>
-====
+### Machine Learning Researcher<br>
 **bloop.ai**<br>
 📍 *London, UK (Remote)*<br>
 📅 *12.2021 – 02.2022*<br>
