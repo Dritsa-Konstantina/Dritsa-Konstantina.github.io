@@ -11,9 +11,8 @@ redirect_from:
 **bloop.ai**<br>
 📍 *London, UK (Remote)*<br>
 📅 *12.2021 – 02.2022*<br>
-<br>
-- Research consluting in the field of Information Retrieval for retrieving source code snippets based on natural language queries
-- Development of a tool for benchmarking different pipelines of Information Retrieval
+  - Research consluting in the field of Information Retrieval for retrieving source code snippets based on natural language queries
+  - Development of a tool for benchmarking different pipelines of Information Retrieval
 
 ## Data Scientist<br>
 **iMEdD.org**<br>
