@@ -1,7 +1,7 @@
 ---
 title: "Standing on shoulders or feet? An extended study on the usage of the MSR data papers"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2021-11-01-standing-on-shoulders-or-feet
 excerpt:
 date: 2021-11-01
 venue: 'Empirical Software Engineering (EMSE 2021)'
